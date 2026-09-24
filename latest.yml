@@ -1,0 +1,8 @@
+﻿version: 1.1.0
+files:
+  - url: Tavu-Setup.exe
+    sha512: p9oYwN95vWeYLtoH6pqe2QnRJHvoWn2Zjnsroe7aUqWvKawQL8ASbZH4FLhHv70B+qPbDeGqx7nmyBfNO7glqA==
+    size: 80489334
+path: Tavu-Setup.exe
+sha512: p9oYwN95vWeYLtoH6pqe2QnRJHvoWn2Zjnsroe7aUqWvKawQL8ASbZH4FLhHv70B+qPbDeGqx7nmyBfNO7glqA==
+releaseDate: '2026-09-19T10:01:41.193Z'
