@@ -1,8 +1,8 @@
-﻿version: 1.4.0
+﻿version: 1.5.0
 files:
   - url: Tavu-Setup.exe
-    sha512: OU6kqO0EtuHZ5YgVX39gYkB3IPuY/1SAwqJmos+FCvZrAtmQs+OwTwTLFj4hRhNU04bIdflKBlrV/yMWZKgpGQ==
-    size: 80512800
+    sha512: idxYMesSo9v2S6MXFGrgREBBoEb4p3hIS8oFXlc0dLhTocCC9XYnCu94/fSYWPUPRUpKSxSBbZdR7TiYPIofLA==
+    size: 80514630
 path: Tavu-Setup.exe
-sha512: OU6kqO0EtuHZ5YgVX39gYkB3IPuY/1SAwqJmos+FCvZrAtmQs+OwTwTLFj4hRhNU04bIdflKBlrV/yMWZKgpGQ==
-releaseDate: '2026-09-26T11:53:55.924Z'
+sha512: idxYMesSo9v2S6MXFGrgREBBoEb4p3hIS8oFXlc0dLhTocCC9XYnCu94/fSYWPUPRUpKSxSBbZdR7TiYPIofLA==
+releaseDate: '2026-09-26T12:38:34.186Z'
